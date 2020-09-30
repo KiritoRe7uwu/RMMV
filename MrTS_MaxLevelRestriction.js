@@ -29,7 +29,7 @@
 * MaxLevel ClassSet [LEVEL] [ID] - sets max level restriction to [ID] of class
 * MaxLevel ClassLift [ID] - removes class max level restriction
 *
-* [LEVEL] - what is the new max level
+* [300] - what is the new max level
 * [ID] - actor or class ID
 *
 * Examples:
